@@ -6,6 +6,7 @@ int main() {
     double num1, num2, result;
 
     do {
+        cout << "\n===== hey everyone =====\n";
         cout << "\n===== Calculator Menu =====\n";
         cout << "1. Addition\n";
         cout << "2. Subtraction\n";
